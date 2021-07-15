@@ -1,0 +1,25 @@
+{
+  "name": "tutorial-restify",
+  "version": "1.0.0",
+  "description": "Thsi is a project that I use to learn restify, MongoDB, Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABDELLANI-Youcef/leaning-restify-mongoDB.git"
+  },
+  "keywords": [
+    "restify",
+    "MongoDB",
+    "Mongoose",
+    "JWT"
+  ],
+  "author": "Youcef Abdellani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ABDELLANI-Youcef/leaning-restify-mongoDB/issues"
+  },
+  "homepage": "https://github.com/ABDELLANI-Youcef/leaning-restify-mongoDB#readme"
+}
