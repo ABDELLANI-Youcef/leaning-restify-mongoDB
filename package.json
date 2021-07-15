@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/ABDELLANI-Youcef/leaning-restify-mongoDB/issues"
   },
-  "homepage": "https://github.com/ABDELLANI-Youcef/leaning-restify-mongoDB#readme"
+  "homepage": "https://github.com/ABDELLANI-Youcef/leaning-restify-mongoDB#readme",
+  "dependencies": {
+    "mongoose": "^5.13.2",
+    "mongoose-timestamp": "^0.6.0",
+    "restify": "^8.5.1",
+    "restify-errors": "^8.0.2"
+  }
 }
